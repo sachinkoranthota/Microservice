@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="WebApplication"/>
+<aop-project name="ClientApplication"/>
+<aop-project name="datastructure"/>
 <aop-project name="MongoDB"/>
+<aop-project name="ServiceDiscovery"/>
 </aop-reference-model>
