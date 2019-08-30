@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.sachin.model.Client;
+import com.sachin.repo.ClientRepository;
 import com.sachin.service.ClientService;
 
 @RestController

@@ -25,7 +25,7 @@ public class MongoDbApplication implements CommandLineRunner  {
 
 		//save customers
 		repository.save(new Customer("Sachin","K S"));
-		repository.save(new Customer("Ashwitha","Sachin"));
+		repository.save(new Customer("Sudhan","K S"));
 
 		System.out.println("Fetch all Customers");
 		System.out.println("-------------------------------");
